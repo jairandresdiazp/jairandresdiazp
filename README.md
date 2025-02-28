@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Jair Diaz</h1>
-<h3 align="center">System engineer graduated of the Fundación Universitaria Los Libertadores Colombia with experience in the sector: Electronic invoice, Ecommerce, Revenue collection, Health</h3>
+<h3 align="center">System engineer with experience in the sector: Electronic invoice, Ecommerce, Revenue collection, Health</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairandresdiazp&label=Profile%20views&color=0e75b6&style=flat" alt="jairandresdiazp" /> </p>
 
